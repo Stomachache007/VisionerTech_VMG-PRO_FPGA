@@ -1,7 +1,11 @@
 ## Visionertech VMG-PRO FPGA project
 ## General Description:
-This is a open-source project of VMG-PRO HMD which is mostly writed by verilog. There are two process flow contained, one is basic ISP flow, the other is HDR flow.
-The top-hierarchy file is also provided in the project, what developers use to do is only new a project and add all of the RTL and ip files to start their design. By the way, all of the module included have been simulated and tested already in hardware.
+This is an open-source project of VMG-PRO HMD mostly written in verilog. There are two process flows contained: one is the basic ISP flow, and the other is the HDR flow.
+The top-hierarchy file is also provided in the project. Developers only need to open a new project and add all of the RTL and ip files to start their own design. By the way, all of the modules included have already been simulated and tested in hardware.
+
+## Developer tool:
+Recommended PC configuration： Intel Core i5-4460/8G RAM/at least two USB3.0/Xilinx ISE 13.4 design suite
+JTAG debug tool which is Xilinx compatible, narrow edge JTAG row line which is 2.0mm and 14pins.
 
 ## Module localtion:
 design/top
@@ -51,8 +55,3 @@ Packaging UVC data format of usb3.0.
 
 design/YC_RGB_convertion
 RGB convert to YC.
-
-## Developer tool:
-Recommended PC configuration： Intel Core i5-4460/8G RAM/at least two USB3.0/
-Xilinx ISE 13.4 design suite
-JATG debug tool which is compatible Xilinx, narrow edge JATG row line which is 2.0cm and 14pins.
