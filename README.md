@@ -5,6 +5,7 @@ The top-hierarchy file is also provided in the project. Developers only need to 
 
 ## Developer tool:
 Recommended PC configuration： Intel Core i5-4460/ 8G RAM/at least two USB3.0/ Xilinx ISE 13.4 design suite.
+
 JTAG debug tool which is Xilinx compatible, narrow edge JTAG row line which is 2.0mm and 14pins.
 
 ## Module localtion:
