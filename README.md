@@ -4,7 +4,7 @@ This is an open-source project of VMG-PRO HMD mostly written in verilog. There a
 The top-hierarchy file is also provided in the project. Developers only need to open a new project and add all of the RTL and ip files to start their own design. By the way, all of the modules included have already been simulated and tested in hardware.
 
 ## Developer tool:
-Recommended PC configuration： Intel Core i5-4460/8G RAM/at least two USB3.0/Xilinx ISE 13.4 design suite
+Recommended PC configuration： Intel Core i5-4460/ 8G RAM/at least two USB3.0/ Xilinx ISE 13.4 design suite.
 JTAG debug tool which is Xilinx compatible, narrow edge JTAG row line which is 2.0mm and 14pins.
 
 ## Module localtion:
